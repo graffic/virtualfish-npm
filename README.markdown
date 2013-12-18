@@ -21,6 +21,7 @@ its packages relative to the virtual environment directory in the same way
    . ~/.config/fish/virtualfish/virtual.fish
    . ~/.config/fish/virtualfish-npm/virtual-npm.fish
    ```
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/6b8e4cd6e67baa7ac3c9c6bd8b415ccb "githalytics.com")](http://githalytics.com/graffic/virtualfish-npm)
 
 [1]: https://github.com/adambrenecki/virtualfish
 [2]: https://github.com/rach/virtualenvwrapper.npm
